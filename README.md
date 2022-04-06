@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/subhaji00504391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhaji00504391" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subhajit mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajit mohanty" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subhajit-mohanty-444535224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajit mohanty" height="30" width="40" /></a>
 <a href="https://instagram.com/subhajit._.mohanty45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhajit._.mohanty45" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/subhajitmohanty1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subhajitmohanty1" height="30" width="40" /></a>
 </p>
